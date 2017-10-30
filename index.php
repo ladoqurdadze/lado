@@ -1,6 +1,6 @@
 <?php 
 
-echo "lado <br/> .git is work to !!! <br/> ";
+echo " RRR <br/> GIT  <br/> ";
 
 echo __File__;
 
